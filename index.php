@@ -6,10 +6,10 @@
   <meta name="keywords" content="Immaculata, ICD2O">
   <meta name="author" content="Isaaq Simon">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (10)/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (10)/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (10)/favicon-16x16.png">
-  <link rel="manifest" href="./favicon_io (10)/site.webmanifest">
+  <link rel="apple-touch-icon" sizes="180x180" href="./favicon_io (11)/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./favicon_io (11)/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="./favicon_io (11)/favicon-16x16.png">
+  <link rel="manifest" href="./favicon_io (11)/site.webmanifest">
   <title>Triangular Pyramid Volume</title>
 
   <!-- Link to external CSS -->
@@ -46,7 +46,7 @@
 
         $volume = (1/6) * $a * $b * $h;
 
-        echo "Volume: " . round($volume, 2) . " cubic units";
+        echo "Volume: " . round($volume, 2) . " cm³";
       }
     ?>
   </div>
